@@ -5,7 +5,7 @@ box-sizing: border-box;}
 
 .container{background-color: white;
 text-align: left;
-margin-top: 50px;
+margin-top: 40px;
 display: grid;
 row-gap: 100px;}
 body{margin-left: 100px;}
